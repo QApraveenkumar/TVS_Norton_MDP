@@ -1,0 +1,10 @@
+ .classpath
+        .idea/
+        .project
+        .settings/
+        Dev
+        Prod
+        allure-results/
+        target/
+        test-output/
+  
