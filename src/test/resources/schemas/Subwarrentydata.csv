@@ -1,0 +1,200 @@
+Country,Assembly Code,Sub Assembly Code,Sub Assembly Name
+UK,EN,1,Cylinder Head
+UK,EN,2,Cylinder Block
+UK,EN,3,Piston
+UK,EN,4,Piston Pin
+UK,EN,5,Piston Ring
+UK,EN,6,Connecting Rod
+UK,EN,7,Crank Shaft
+UK,EN,8,Valve
+UK,EN,9,Valve Guide
+UK,EN,10,Valve Seat
+UK,EN,11,Valve Spring
+UK,EN,12,Valve Cotter
+UK,EN,13,Valve Cap
+UK,EN,14,Rocker Arm
+UK,EN,15,Push Rod
+UK,EN,16,Timing Chain
+UK,EN,17,Tensioner
+UK,EN,18,Chain Sprocket
+UK,EN,19,Silent Chain
+UK,EN,20,Timing Gear
+UK,EN,21,Cam Shaft
+UK,EN,22,Cam Sprocket
+UK,EN,23,Balancer Shaft
+UK,EN,24,Balancer Assembly
+UK,EN,25,Balancer Gear
+UK,EN,26,Balancer Damper
+UK,EN,27,Balancer Case
+UK,EN,28,Air Cut Valve
+UK,EL,1,Starter Motor
+UK,EL,2,Battery
+UK,EL,3,Alternator
+UK,EL,4,Rectifier
+UK,EL,5,Horn
+UK,EL,6,Head Lamp
+UK,EL,7,Ignition Switch
+UK,EL,8,Combination Switch
+UK,EL,9,Key Set
+UK,EL,10,Indicator
+UK,EL,11,Handle Switch
+UK,EL,12,Speedometer
+UK,EL,13,Sensor
+UK,EL,14,Starter Relay
+UK,EL,15,Magneto
+UK,EL,16,CDI Unit
+UK,EL,17,Regulator
+UK,EL,18,Flasher
+UK,EL,19,Coil
+UK,EL,20,Plug Cap
+UK,EL,21,Plug
+UK,FU,1,Fuel Tank
+UK,FU,2,Fuel Pump
+UK,FU,3,Injector
+UK,FU,4,Carburetor
+UK,FU,5,Fuel Hose
+UK,FU,6,Fuel Cock
+UK,FU,7,Fuel Gauge
+UK,FU,8,Fuel Cap
+UK,FU,9,Fuel Filter
+UK,BO,1,Front Body
+UK,BO,2,Side Cover
+UK,BO,3,Air Filter
+UK,BO,4,Air Box
+UK,BO,5,Handle
+UK,BO,6,Front Fairing
+UK,BO,7,Side Panel
+UK,BO,8,Rear Cowl
+UK,BO,9,Seat
+UK,BO,10,Front Fender
+UK,BO,11,Rear Fender
+UK,BO,12,Pillion Handle
+UK,BO,13,Tool Box
+UK,BO,14,Chain Cover
+UK,BO,15,Foot Rest
+UK,BO,16,Mirror
+UK,BO,17,Grab Rail
+UK,BO,18,Front Panel
+UK,BO,19,Split Panel
+UK,BO,20,Inner Cover
+UK,BO,21,Front Visor
+UK,BO,22,Front Spoiler
+UK,BO,23,Rear Spoiler
+UK,BO,24,Front Mudguard
+UK,BO,25,Rear Mudguard
+UK,BO,26,Rear Cover
+UK,BO,27,Front Grille
+UK,BO,28,Rear Grille
+UK,BO,29,Front Pillar
+UK,BO,30,Rear Pillar
+UK,BO,31,Front Bumper
+UK,BO,32,Rear Bumper
+UK,BO,33,Front Skirt
+UK,BO,34,Rear Skirt
+UK,BO,35,Front Panel Assembly
+UK,BO,36,Rear Panel Assembly
+UK,BO,37,Front Panel Lower
+UK,BO,38,Rear Panel Lower
+UK,CO,1,Radiator
+UK,CO,2,Water Pump
+UK,CO,3,Thermostat
+UK,CO,4,Hose
+UK,CO,5,Reservoir
+UK,CO,6,Cap
+UK,CO,7,Sensor
+UK,CO,8,Bracket
+UK,CO,9,Clip
+UK,CO,10,Drain Plug
+UK,EX,1,Exhaust Pipe
+UK,EX,2,Muffler
+UK,EX,3,Heat Shield
+UK,EX,4,O2 Sensor
+UK,EX,5,Exhaust Gasket
+UK,EX,6,Exhaust Clamp
+UK,GB,1,Gear Box
+UK,GB,2,Clutch Plate
+UK,GB,3,Clutch Cover
+UK,GB,4,Clutch Hub
+UK,GB,5,Clutch Spring
+UK,GB,6,Clutch Cable
+UK,GB,7,Shifter Fork
+UK,GB,8,Shifter Drum
+UK,GB,9,Shifter Shaft
+UK,GB,10,Shifter Arm
+UK,GB,11,Shifter Spring
+UK,GB,12,Shifter Pin
+UK,GB,13,Shifter Guide
+UK,FS,1,Front Suspension
+UK,FS,2,Front Fork
+UK,FS,3,Front Shock Absorber
+UK,FS,4,Front Damper
+UK,FS,5,Front Spring
+UK,FS,6,Front Tube
+UK,FS,7,Front Oil Seal
+UK,FS,8,Front Dust Seal
+UK,FS,9,Front Cushion
+UK,FS,10,Front Cylinder
+UK,FS,11,Front Rod
+UK,FS,12,Front Cap
+UK,FS,13,Front Guide
+UK,RS,1,Rear Suspension
+UK,RS,2,Rear Shock Absorber
+UK,RS,3,Rear Damper
+UK,RS,4,Rear Spring
+UK,RS,5,Rear Tube
+UK,RS,6,Rear Oil Seal
+UK,RS,7,Rear Dust Seal
+UK,RS,8,Rear Cushion
+UK,RS,9,Rear Cylinder
+UK,RS,10,Rear Rod
+UK,RS,11,Rear Cap
+UK,RS,12,Rear Guide
+UK,FW,1,Front Wheel
+UK,FW,2,Front Rim
+UK,FW,3,Front Hub
+UK,FW,4,Front Spoke
+UK,FW,5,Front Bearing
+UK,FW,6,Front Valve
+UK,FW,7,Front Cylinder
+UK,FW,8,Front Guide
+UK,RW,1,Rear Wheel
+UK,RW,2,Rear Rim
+UK,RW,3,Rear Hub
+UK,RW,4,Rear Spoke
+UK,RW,5,Rear Bearing
+UK,RW,6,Rear Valve
+UK,RW,7,Rear Cylinder
+UK,RW,8,Rear Guide
+UK,FB,1,Front Brake
+UK,FB,2,Front Disc
+UK,FB,3,Front Pad
+UK,FB,4,Front Caliper
+UK,FB,5,Front Hose
+UK,FB,6,Front Master Cylinder
+UK,FB,7,Front Lever
+UK,FB,8,Front Cylinder
+UK,FB,9,Front Guide
+UK,RB,1,Rear Brake
+UK,RB,2,Rear Disc
+UK,RB,3,Rear Pad
+UK,RB,4,Rear Caliper
+UK,RB,5,Rear Hose
+UK,RB,6,Rear Master Cylinder
+UK,RB,7,Rear Lever
+UK,RB,8,Rear Cylinder
+UK,RB,9,Rear Guide
+UK,LU,1,Lubrication
+UK,LU,2,Oil Pump
+UK,LU,3,Oil Filter
+UK,LU,4,Oil Cooler
+UK,LU,5,Oil Gauge
+UK,LU,6,Oil Cap
+UK,LU,7,Oil Drain Plug
+UK,LU,8,Oil Level Switch
+UK,GE,1,General Assembly
+UK,GE,2,Outsourced Work - Machining
+UK,GE,3,Outsourced Work - Paint
+UK,GE,4,Press Claim
+UK,GE,5,Job Card
+UK,GE,6,Rework
+UK,GE,7,Outsourced Work - Dust
