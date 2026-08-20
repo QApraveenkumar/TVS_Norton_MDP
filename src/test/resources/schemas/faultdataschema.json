@@ -1,0 +1,212 @@
+{
+  "data": {
+    "tenantId": "UK-EU-N001",
+    "faultTypes": [
+      {
+        "faultTypeCode": "11",
+        "faultTypeName": "Misaligned"
+      },
+      {
+        "faultTypeCode": "6",
+        "faultTypeName": "Excessive wear"
+      },
+      {
+        "faultTypeCode": "4",
+        "faultTypeName": "Loose"
+      },
+      {
+        "faultTypeCode": "12",
+        "faultTypeName": "Missing"
+      },
+      {
+        "faultTypeCode": "9",
+        "faultTypeName": "Discoloured"
+      },
+      {
+        "faultTypeCode": "7",
+        "faultTypeName": "Burnt"
+      },
+      {
+        "faultTypeCode": "5",
+        "faultTypeName": "Bent"
+      },
+      {
+        "faultTypeCode": "8",
+        "faultTypeName": "Leaking"
+      },
+      {
+        "faultTypeCode": "2",
+        "faultTypeName": "Cracked"
+      },
+      {
+        "faultTypeCode": "3",
+        "faultTypeName": "Scratched"
+      },
+      {
+        "faultTypeCode": "1",
+        "faultTypeName": "Broken"
+      },
+      {
+        "faultTypeCode": "10",
+        "faultTypeName": "Incorrect fit"
+      },
+      {
+        "faultTypeCode": "21",
+        "faultTypeName": "Excessive Vibration"
+      },
+      {
+        "faultTypeCode": "16",
+        "faultTypeName": "Torn"
+      },
+      {
+        "faultTypeCode": "18",
+        "faultTypeName": "Contamination"
+      },
+      {
+        "faultTypeCode": "24",
+        "faultTypeName": "Too Long"
+      },
+      {
+        "faultTypeCode": "15",
+        "faultTypeName": "Corrosion"
+      },
+      {
+        "faultTypeCode": "22",
+        "faultTypeName": "Stripped"
+      },
+      {
+        "faultTypeCode": "13",
+        "faultTypeName": "Not working"
+      },
+      {
+        "faultTypeCode": "14",
+        "faultTypeName": "Faulty"
+      },
+      {
+        "faultTypeCode": "19",
+        "faultTypeName": "Seized/Stuck"
+      },
+      {
+        "faultTypeCode": "23",
+        "faultTypeName": "Too Short"
+      },
+      {
+        "faultTypeCode": "17",
+        "faultTypeName": "Wrong Part Fitted"
+      },
+      {
+        "faultTypeCode": "20",
+        "faultTypeName": "Compression issues"
+      },
+      {
+        "faultTypeCode": "25",
+        "faultTypeName": "Dented"
+      },
+      {
+        "faultTypeCode": "29",
+        "faultTypeName": "Foreign Body"
+      },
+      {
+        "faultTypeCode": "33",
+        "faultTypeName": "Excessive Play"
+      },
+      {
+        "faultTypeCode": "31",
+        "faultTypeName": "Difficult To Engage"
+      },
+      {
+        "faultTypeCode": "26",
+        "faultTypeName": "Peeling"
+      },
+      {
+        "faultTypeCode": "28",
+        "faultTypeName": "Poor Machining"
+      },
+      {
+        "faultTypeCode": "32",
+        "faultTypeName": "Excessive Oil Consumption"
+      },
+      {
+        "faultTypeCode": "37",
+        "faultTypeName": "Stripped"
+      },
+      {
+        "faultTypeCode": "34",
+        "faultTypeName": "Obstruction"
+      },
+      {
+        "faultTypeCode": "27",
+        "faultTypeName": "Deformation"
+      },
+      {
+        "faultTypeCode": "35",
+        "faultTypeName": "Pinhole"
+      },
+      {
+        "faultTypeCode": "36",
+        "faultTypeName": "Blown"
+      },
+      {
+        "faultTypeCode": "30",
+        "faultTypeName": "Excessive Noise"
+      },
+      {
+        "faultTypeCode": "42",
+        "faultTypeName": "Paint Defect"
+      },
+      {
+        "faultTypeCode": "43",
+        "faultTypeName": "Pitted"
+      },
+      {
+        "faultTypeCode": "49",
+        "faultTypeName": "SW Update"
+      },
+      {
+        "faultTypeCode": "44",
+        "faultTypeName": "Rattling Noise"
+      },
+      {
+        "faultTypeCode": "45",
+        "faultTypeName": "System Bleed"
+      },
+      {
+        "faultTypeCode": "48",
+        "faultTypeName": "NFF- No Fault Found"
+      },
+      {
+        "faultTypeCode": "50",
+        "faultTypeName": "Customer Compensation"
+      },
+      {
+        "faultTypeCode": "40",
+        "faultTypeName": "Short Circuit"
+      },
+      {
+        "faultTypeCode": "39",
+        "faultTypeName": "Melted"
+      },
+      {
+        "faultTypeCode": "41",
+        "faultTypeName": "Open Circuit"
+      },
+      {
+        "faultTypeCode": "46",
+        "faultTypeName": "Service Bulletin"
+      },
+      {
+        "faultTypeCode": "38",
+        "faultTypeName": "Goodwill"
+      },
+      {
+        "faultTypeCode": "47",
+        "faultTypeName": "Recall Campaign"
+      }
+    ]
+  },
+  "errorMessage": null,
+  "time": "Fri Mar 20 11:07:34 IST 2026",
+  "uuid": "http-nio-8080-exec-8_53366281-5053-4fa1-a6ea-ab2b8d18d2fc_1773985054290",
+  "timeTakenInMs": 4,
+  "serverId": "8c57"
+}

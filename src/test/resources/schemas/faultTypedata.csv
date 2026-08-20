@@ -1,0 +1,51 @@
+Country,Fault Type Code,Fault Type Name
+UK,1,Broken
+UK,2,Cracked
+UK,3,Scratched
+UK,4,Loose
+UK,5,Bent
+UK,6,Excessive wear
+UK,7,Burnt
+UK,8,Leaking
+UK,9,Discoloured
+UK,10,Incorrect fit
+UK,11,Misaligned
+UK,12,Missing
+UK,13,Not working
+UK,14,Faulty
+UK,15,Corrosion
+UK,16,Torn
+UK,17,Wrong Part Fitted
+UK,18,Contamination
+UK,19,Seized/Stuck
+UK,20,Compression issues
+UK,21,Excessive Vibration
+UK,22,Stripped
+UK,23,Too Short
+UK,24,Too Long
+UK,25,Dented
+UK,26,Peeling
+UK,27,Deformation
+UK,28,Poor Machining
+UK,29,Foreign Body
+UK,30,Excessive Noise
+UK,31,Difficult To Engage
+UK,32,Excessive Oil Consumption
+UK,33,Excessive Play
+UK,34,Obstruction
+UK,35,Pinhole
+UK,36,Blown
+UK,37,Stripped
+UK,38,Goodwill
+UK,39,Melted
+UK,40,Short Circuit
+UK,41,Open Circuit
+UK,42,Paint Defect
+UK,43,Pitted
+UK,44,Rattling Noise
+UK,45,System Bleed
+UK,46,Service Bulletin
+UK,47,Recall Campaign
+UK,48,NFF- No Fault Found
+UK,49,SW Update
+UK,50,Customer Compensation

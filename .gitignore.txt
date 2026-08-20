@@ -7,4 +7,6 @@
         allure-results/
         target/
         test-output/
-  
+      src/test/resources/config/dev.properties
+       src/test/resources/config/prod.properties
+        src/test/resources/config/qa.properties

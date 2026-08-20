@@ -1,0 +1,72 @@
+{
+  "data": {
+    "tenantId": "UK-EU-N001",
+    "warranties": [
+      {
+        "warrantyCode": "FU",
+        "warrantyName": "FUEL SYSTEM"
+      },
+      {
+        "warrantyCode": "EN",
+        "warrantyName": "ENGINE"
+      },
+      {
+        "warrantyCode": "FS",
+        "warrantyName": "FRONT SUSPENSION"
+      },
+      {
+        "warrantyCode": "FB",
+        "warrantyName": "FRONT BRAKES"
+      },
+      {
+        "warrantyCode": "CO",
+        "warrantyName": "COOLING SYSTEM"
+      },
+      {
+        "warrantyCode": "EL",
+        "warrantyName": "ELECTRIC SYSTEM"
+      },
+      {
+        "warrantyCode": "FW",
+        "warrantyName": "FRONT WHEEL"
+      },
+      {
+        "warrantyCode": "RS",
+        "warrantyName": "REAR SUSPENSION"
+      },
+      {
+        "warrantyCode": "GB",
+        "warrantyName": "GEAR BOX"
+      },
+      {
+        "warrantyCode": "RB",
+        "warrantyName": "REAR BRAKES"
+      },
+      {
+        "warrantyCode": "EX",
+        "warrantyName": "EXHAUST"
+      },
+      {
+        "warrantyCode": "RW",
+        "warrantyName": "REAR WHEEL"
+      },
+      {
+        "warrantyCode": "BO",
+        "warrantyName": "BODY"
+      },
+      {
+        "warrantyCode": "GE",
+        "warrantyName": "GENERAL"
+      },
+      {
+        "warrantyCode": "LU",
+        "warrantyName": "LUBRICATION"
+      }
+    ]
+  },
+  "errorMessage": null,
+  "time": "Fri Mar 20 11:07:08 IST 2026",
+  "uuid": "http-nio-8080-exec-7_c007876d-0aab-4f12-94c8-f72131953824_1773985028126",
+  "timeTakenInMs": 5,
+  "serverId": "8c57"
+}

@@ -1,0 +1,1007 @@
+{
+  "data": {
+    "tenantId": "UK-EU-N001",
+    "subWarranties": [
+      {
+        "warrantyCode": "FU",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Fuel Tank"
+      },
+      {
+        "warrantyCode": "FU",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Injector"
+      },
+      {
+        "warrantyCode": "FU",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Fuel Cock"
+      },
+      {
+        "warrantyCode": "FU",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Fuel Gauge"
+      },
+      {
+        "warrantyCode": "FU",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Fuel Pump"
+      },
+      {
+        "warrantyCode": "FU",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Fuel Filter"
+      },
+      {
+        "warrantyCode": "FU",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Fuel Cap"
+      },
+      {
+        "warrantyCode": "FU",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Fuel Hose"
+      },
+      {
+        "warrantyCode": "FU",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Carburetor"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "18",
+        "subWarrantyName": "Chain Sprocket"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "14",
+        "subWarrantyName": "Rocker Arm"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Crank Shaft"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Piston"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "11",
+        "subWarrantyName": "Valve Spring"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Piston Pin"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Valve Guide"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Valve"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "23",
+        "subWarrantyName": "Balancer Shaft"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "12",
+        "subWarrantyName": "Valve Cotter"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "26",
+        "subWarrantyName": "Balancer Damper"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "27",
+        "subWarrantyName": "Balancer Case"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "20",
+        "subWarrantyName": "Timing Gear"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "10",
+        "subWarrantyName": "Valve Seat"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Cylinder Block"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "24",
+        "subWarrantyName": "Balancer Assembly"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Connecting Rod"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Piston Ring"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "13",
+        "subWarrantyName": "Valve Cap"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "16",
+        "subWarrantyName": "Timing Chain"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Cylinder Head"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "17",
+        "subWarrantyName": "Tensioner"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "19",
+        "subWarrantyName": "Silent Chain"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "15",
+        "subWarrantyName": "Push Rod"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "21",
+        "subWarrantyName": "Cam Shaft"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "28",
+        "subWarrantyName": "Air Cut Valve"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "25",
+        "subWarrantyName": "Balancer Gear"
+      },
+      {
+        "warrantyCode": "EN",
+        "subWarrantyCode": "22",
+        "subWarrantyName": "Cam Sprocket"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "10",
+        "subWarrantyName": "Front Cylinder"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Front Fork"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Front Tube"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Front Shock Absorber"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Front Cushion"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "13",
+        "subWarrantyName": "Front Guide"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Front Dust Seal"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "11",
+        "subWarrantyName": "Front Rod"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Front Spring"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Front Suspension"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "12",
+        "subWarrantyName": "Front Cap"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Front Damper"
+      },
+      {
+        "warrantyCode": "FS",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Front Oil Seal"
+      },
+      {
+        "warrantyCode": "FB",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Front Hose"
+      },
+      {
+        "warrantyCode": "FB",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Front Brake"
+      },
+      {
+        "warrantyCode": "FB",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Front Lever"
+      },
+      {
+        "warrantyCode": "FB",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Front Cylinder"
+      },
+      {
+        "warrantyCode": "FB",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Front Caliper"
+      },
+      {
+        "warrantyCode": "FB",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Front Guide"
+      },
+      {
+        "warrantyCode": "FB",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Front Disc"
+      },
+      {
+        "warrantyCode": "FB",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Front Master Cylinder"
+      },
+      {
+        "warrantyCode": "FB",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Front Pad"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Thermostat"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Radiator"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Water Pump"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Sensor"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "10",
+        "subWarrantyName": "Drain Plug"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Hose"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Cap"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Bracket"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Reservoir"
+      },
+      {
+        "warrantyCode": "CO",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Clip"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "16",
+        "subWarrantyName": "CDI Unit"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "12",
+        "subWarrantyName": "Speedometer"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "11",
+        "subWarrantyName": "Handle Switch"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "14",
+        "subWarrantyName": "Starter Relay"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Starter Motor"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "20",
+        "subWarrantyName": "Plug Cap"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Battery"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Key Set"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Alternator"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Ignition Switch"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "19",
+        "subWarrantyName": "Coil"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "10",
+        "subWarrantyName": "Indicator"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "21",
+        "subWarrantyName": "Plug"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Horn"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "13",
+        "subWarrantyName": "Sensor"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "18",
+        "subWarrantyName": "Flasher"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Head Lamp"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Rectifier"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "15",
+        "subWarrantyName": "Magneto"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Combination Switch"
+      },
+      {
+        "warrantyCode": "EL",
+        "subWarrantyCode": "17",
+        "subWarrantyName": "Regulator"
+      },
+      {
+        "warrantyCode": "FW",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Front Wheel"
+      },
+      {
+        "warrantyCode": "FW",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Front Spoke"
+      },
+      {
+        "warrantyCode": "FW",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Front Cylinder"
+      },
+      {
+        "warrantyCode": "FW",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Front Valve"
+      },
+      {
+        "warrantyCode": "FW",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Front Rim"
+      },
+      {
+        "warrantyCode": "FW",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Front Hub"
+      },
+      {
+        "warrantyCode": "FW",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Front Guide"
+      },
+      {
+        "warrantyCode": "FW",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Front Bearing"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Rear Shock Absorber"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Rear Spring"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Rear Oil Seal"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "11",
+        "subWarrantyName": "Rear Cap"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Rear Suspension"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Rear Cylinder"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "10",
+        "subWarrantyName": "Rear Rod"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Rear Tube"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Rear Damper"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Rear Cushion"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Rear Dust Seal"
+      },
+      {
+        "warrantyCode": "RS",
+        "subWarrantyCode": "12",
+        "subWarrantyName": "Rear Guide"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Clutch Cover"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "13",
+        "subWarrantyName": "Shifter Guide"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Clutch Plate"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Clutch Cable"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Clutch Hub"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Shifter Drum"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "11",
+        "subWarrantyName": "Shifter Spring"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Gear Box"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Clutch Spring"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Shifter Fork"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "10",
+        "subWarrantyName": "Shifter Arm"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Shifter Shaft"
+      },
+      {
+        "warrantyCode": "GB",
+        "subWarrantyCode": "12",
+        "subWarrantyName": "Shifter Pin"
+      },
+      {
+        "warrantyCode": "RB",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Rear Cylinder"
+      },
+      {
+        "warrantyCode": "RB",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Rear Master Cylinder"
+      },
+      {
+        "warrantyCode": "RB",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Rear Caliper"
+      },
+      {
+        "warrantyCode": "RB",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Rear Guide"
+      },
+      {
+        "warrantyCode": "RB",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Rear Disc"
+      },
+      {
+        "warrantyCode": "RB",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Rear Hose"
+      },
+      {
+        "warrantyCode": "RB",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Rear Pad"
+      },
+      {
+        "warrantyCode": "RB",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Rear Lever"
+      },
+      {
+        "warrantyCode": "RB",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Rear Brake"
+      },
+      {
+        "warrantyCode": "EX",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Exhaust Gasket"
+      },
+      {
+        "warrantyCode": "EX",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Exhaust Clamp"
+      },
+      {
+        "warrantyCode": "EX",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Muffler"
+      },
+      {
+        "warrantyCode": "EX",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "O2 Sensor"
+      },
+      {
+        "warrantyCode": "EX",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Exhaust Pipe"
+      },
+      {
+        "warrantyCode": "EX",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Heat Shield"
+      },
+      {
+        "warrantyCode": "RW",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Rear Wheel"
+      },
+      {
+        "warrantyCode": "RW",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Rear Rim"
+      },
+      {
+        "warrantyCode": "RW",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Rear Valve"
+      },
+      {
+        "warrantyCode": "RW",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Rear Spoke"
+      },
+      {
+        "warrantyCode": "RW",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Rear Hub"
+      },
+      {
+        "warrantyCode": "RW",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Rear Guide"
+      },
+      {
+        "warrantyCode": "RW",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Rear Bearing"
+      },
+      {
+        "warrantyCode": "RW",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Rear Cylinder"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "17",
+        "subWarrantyName": "Grab Rail"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "32",
+        "subWarrantyName": "Rear Bumper"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "37",
+        "subWarrantyName": "Front Panel Lower"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "19",
+        "subWarrantyName": "Split Panel"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "29",
+        "subWarrantyName": "Front Pillar"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "35",
+        "subWarrantyName": "Front Panel Assembly"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Air Box"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Front Body"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Side Cover"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "38",
+        "subWarrantyName": "Rear Panel Lower"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "13",
+        "subWarrantyName": "Tool Box"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Front Fairing"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "10",
+        "subWarrantyName": "Front Fender"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "28",
+        "subWarrantyName": "Rear Grille"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "20",
+        "subWarrantyName": "Inner Cover"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "9",
+        "subWarrantyName": "Seat"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "26",
+        "subWarrantyName": "Rear Cover"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "30",
+        "subWarrantyName": "Rear Pillar"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "34",
+        "subWarrantyName": "Rear Skirt"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "15",
+        "subWarrantyName": "Foot Rest"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "33",
+        "subWarrantyName": "Front Skirt"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "18",
+        "subWarrantyName": "Front Panel"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Rear Cowl"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "23",
+        "subWarrantyName": "Rear Spoiler"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "14",
+        "subWarrantyName": "Chain Cover"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Air Filter"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "24",
+        "subWarrantyName": "Front Mudguard"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Side Panel"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "16",
+        "subWarrantyName": "Mirror"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "21",
+        "subWarrantyName": "Front Visor"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "22",
+        "subWarrantyName": "Front Spoiler"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "31",
+        "subWarrantyName": "Front Bumper"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "12",
+        "subWarrantyName": "Pillion Handle"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Handle"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "25",
+        "subWarrantyName": "Rear Mudguard"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "11",
+        "subWarrantyName": "Rear Fender"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "27",
+        "subWarrantyName": "Front Grille"
+      },
+      {
+        "warrantyCode": "BO",
+        "subWarrantyCode": "36",
+        "subWarrantyName": "Rear Panel Assembly"
+      },
+      {
+        "warrantyCode": "GE",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Job Card"
+      },
+      {
+        "warrantyCode": "GE",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Rework"
+      },
+      {
+        "warrantyCode": "GE",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Outsourced Work - Paint"
+      },
+      {
+        "warrantyCode": "GE",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Press Claim"
+      },
+      {
+        "warrantyCode": "GE",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Outsourced Work - Dust"
+      },
+      {
+        "warrantyCode": "GE",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "General Assembly"
+      },
+      {
+        "warrantyCode": "GE",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Outsourced Work - Machining"
+      },
+      {
+        "warrantyCode": "LU",
+        "subWarrantyCode": "4",
+        "subWarrantyName": "Oil Cooler"
+      },
+      {
+        "warrantyCode": "LU",
+        "subWarrantyCode": "3",
+        "subWarrantyName": "Oil Filter"
+      },
+      {
+        "warrantyCode": "LU",
+        "subWarrantyCode": "8",
+        "subWarrantyName": "Oil Level Switch"
+      },
+      {
+        "warrantyCode": "LU",
+        "subWarrantyCode": "2",
+        "subWarrantyName": "Oil Pump"
+      },
+      {
+        "warrantyCode": "LU",
+        "subWarrantyCode": "5",
+        "subWarrantyName": "Oil Gauge"
+      },
+      {
+        "warrantyCode": "LU",
+        "subWarrantyCode": "7",
+        "subWarrantyName": "Oil Drain Plug"
+      },
+      {
+        "warrantyCode": "LU",
+        "subWarrantyCode": "6",
+        "subWarrantyName": "Oil Cap"
+      },
+      {
+        "warrantyCode": "LU",
+        "subWarrantyCode": "1",
+        "subWarrantyName": "Lubrication"
+      }
+    ]
+  },
+  "errorMessage": null,
+  "time": "Fri Mar 20 11:06:17 IST 2026",
+  "uuid": "http-nio-8080-exec-3_a0b30f34-3348-4b79-a6aa-404282e4399a_1773984977595",
+  "timeTakenInMs": 5,
+  "serverId": "8c57"
+}

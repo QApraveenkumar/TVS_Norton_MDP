@@ -1,0 +1,17 @@
+{
+  "type": null,
+  "sapStatus": null,
+  "dmsStatus": null,
+  "mdpStatus": "ACTIVE",
+  "flags": [
+    "TWO_WHEELER",
+    "SALES"
+  ],
+  "search": null,
+  "location": null,
+  "proximity": {
+    "latitude": "60.3867992",
+    "longitude": "-7.035937",
+    "limit":10
+  }
+}
